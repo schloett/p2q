@@ -1,0 +1,78 @@
+id,uuid,session,age,sex,birthland,education,studies,computer_experience,internet_usage,explanation,personalization,start,stop
+1608,FAA7DDB8-E638-427B-AF2B-7B1078C466DC,2016-02-03 14:00:00,28,male,germany,staatsexamen,M-IEB,user,less than 2 hours per day,f,t,1454504400000,1454508000000
+1407,FF3AB3E3-8AE8-43BE-A342-E2128BEA1784,2016-02-03 13:00:00,24,female,germany,abitur,european studies,user,more than 2 hours per day,f,t,1454500800000,1454504400000
+1100,2F09466B-185F-4C6E-8B17-68B7E25EE02F,2016-02-03 13:00:00,20,female,germany,abitur,teaching,user,less than 2 hours per day,f,t,1454500800000,1454504400000
+1304,75713DA5-FAF2-4ED7-BDB7-9453C12040D0,2016-02-02 09:00:00,25,female,kazahkstan,abitur,BAE,user,less than 2 hours per day,f,f,1454400000000,1454403600000
+1308,E993C91C-F691-42AC-8AD6-9D26BD042B0B,2016-02-02 09:00:00,23,female,kazahkstan,abitur,BAE,user,less than 2 hours per day,f,f,1454400000000,1454403600000
+1408,A1506DB8-B6E2-45A5-B867-07BED000FBE7,2016-02-02 10:00:00,23,female,germany,abitur,law,expert,more than 2 hours per day,f,f,1454403600000,1454407200000
+1409,3C833781-DF98-4863-B752-ED819EACAD6B,2016-02-02 10:00:00,24,male,germany,abitur,teaching,expert,more than 2 hours per day,f,f,1454403600000,1454407200000
+1102,D26D50F4-06E3-4FD0-839C-9764CFC82F9E,2016-02-01 09:00:00,23,female,germany,abitur,political science,user,more than 2 hours per day,t,f,1454313600000,1454317200000
+1108,97DF4BCC-EB51-4202-9940-FED9B26D6984,2016-02-01 09:00:00,22,female,germany,abitur,media and communications,user,more than 2 hours per day,t,f,1454313600000,1454317200000
+1109,D42CF4FD-1A01-4D2D-88FF-116EB1F8718E,2016-02-01 09:00:00,21,female,germany,abitur,cultural industry,user,more than 2 hours per day,t,f,1454313600000,1454317200000
+1210,7A5B36C9-08FC-4E45-8583-420EAF4462EE,2016-02-01 10:00:00,20,female,germany,abitur,BAE,user,more than 2 hours per day,t,t,1454317200000,1454320800000
+1202,9CFFEC3B-62E4-4204-B684-AF8281C5FFAE,2016-02-01 10:00:00,26,male,germany,abitur,teaching,user,more than 2 hours per day,t,t,1454317200000,1454320800000
+1204,71E53BCB-9365-488B-8ED5-D1391BE6B72A,2016-02-01 10:00:00,21,male,germany,abitur,business informatics,expert,more than 2 hours per day,t,t,1454317200000,1454320800000
+1209,1B643163-BAFB-4E9B-AC52-8C71369FCBDD,2016-02-01 10:00:00,23,male,germany,abitur,law,user,less than 2 hours per day,t,t,1454317200000,1454320800000
+1208,F8307604-0F44-4294-99BF-45C2281BF920,2016-02-01 10:00:00,25,female,germany,abitur,BAE,user,less than 2 hours per day,t,t,1454317200000,1454320800000
+541,F995DD24-FCBC-46BD-8131-63152D81C268,2016-01-21 14:00:00,22,female,germany,abitur,BAE,user,more than 2 hours per day,t,f,1453381200000,1453384800000
+543,A8BF7459-6272-4392-AC41-36002DC7FC9F,2016-01-21 14:00:00,22,male,germany,abitur,teaching,user,less than 2 hours per day,t,f,1453381200000,1453384800000
+542,AF386DA3-AF40-40DB-B44F-60821E9C37A8,2016-01-21 14:00:00,20,female,germany,abitur,political science,user,less than 2 hours per day,t,f,1453381200000,1453384800000
+532,2276F2E6-8F73-47CD-8869-82754BA4598C,2016-01-21 13:00:00,26,male,germany,bachelor,business administration,user,less than 2 hours per day,t,f,1453377600000,1453381200000
+534,977EBA8B-8C92-462D-8852-6806BD1536F1,2016-01-21 13:00:00,22,female,germany,abitur,international cultural and business studies,user,less than 2 hours per day,t,f,1453377600000,1453381200000
+531,F94BB259-34D3-41D3-8E5D-410BF7E62BBF,2016-01-21 13:00:00,23,male,germany,master craftsman,BAE,user,more than 2 hours per day,t,f,1453377600000,1453381200000
+535,FB573956-80A7-4D6F-904F-F69942BBDCA4,2016-01-21 13:00:00,21,female,germany,abitur,cultural industry,user,less than 2 hours per day,t,f,1453377600000,1453381200000
+536,CEC60913-9FFF-4E0F-A197-3113BBFBCB40,2016-01-21 13:00:00,23,female,germany,abitur,teaching,user,less than 2 hours per day,t,f,1453377600000,1453381200000
+521,E3A5C9E4-3CF3-4507-B6C6-92D4D72C64FE,2016-01-21 10:00:00,21,female,germany,abitur,historical art,user,more than 2 hours per day,t,f,1453377600000,1453370400000
+522,F55673C8-F0B5-48CE-9456-8055CA9221CA,2016-01-21 10:00:00,22,male,germany,abitur,cultural industry,user,more than 2 hours per day,t,f,1453377600000,1453370400000
+523,737879E6-6A01-4E72-95EB-9FB77B3FC9F2,2016-01-21 10:00:00,27,male,germany,abitur,BAE,user,more than 2 hours per day,t,f,1453377600000,1453370400000
+411,8E0DAA67-DF6E-4F0C-A8C2-374DAD59F6E8,2016-01-21 09:00:00,21,female,germany,abitur,BAE,user,more than 2 hours per day,t,f,1453363200000,1453377600000
+114,0ED79AF1-BC56-416D-A2D0-AEC85602979F,2016-01-20 14:00:00,23,female,germany,abitur,european studies,user,more than 2 hours per day,t,t,1453294800000,1453298400000
+223,DB6D5A2D-E47F-4AB5-9F3E-8837CF89BCDF,2016-01-20 14:00:00,25,male,germany,abitur,teaching,user,less than 2 hours per day,t,t,1453294800000,1453298400000
+313,483C5C25-55A3-4A99-914D-ECCA8D13FDFE,2016-01-20 13:00:00,21,male,germany,abitur,BAE,user,more than 2 hours per day,t,t,1453291200000,1453294800000
+315,85CF1791-00CC-4116-A3DE-3C037BE42E71,2016-01-20 13:00:00,31,female,kazahkstan,abitur,speech and text,user,more than 2 hours per day,t,t,1453291200000,1453294800000
+314,9D7243F7-6275-4ABB-8BA7-FE39E9C2B629,2016-01-20 13:00:00,22,female,germany,university degree,cultural industry,user,less than 2 hours per day,t,t,1453291200000,1453294800000
+311,384519AD-BF21-4E64-87F7-9F5A09A3D2F9,2016-01-20 13:00:00,22,female,ethiopia,abitur,political science,user,more than 2 hours per day,t,t,1453291200000,1453294800000
+225,656E68B8-E7C6-4528-B9BA-C7D2F3957954,2016-01-19 10:00:00,22,female,germany,abitur,european studies,user,less than 2 hours per day,t,t,1453194000000,1453197600000
+222,5A912A7C-B7F3-4595-AC25-574293E720DA,2016-01-19 10:00:00,26,male,germany,abitur,law,user,more than 2 hours per day,t,t,1453194000000,1453197600000
+224,3F6E28A7-1E4C-4374-A14E-C9F97556FE37,2016-01-19 10:00:00,21,female,germany,abitur,political science,user,less than 2 hours per day,t,t,1453194000000,1453197600000
+221,D646DAF2-5AF4-4E1C-9142-D86DC1BE60E5,2016-01-19 10:00:00,22,male,germany,abitur,political science,user,more than 2 hours per day,t,t,1453194000000,1453197600000
+113,816CC251-30B9-4679-A55A-E9CE0501D4CF,2016-01-19 09:00:00,19,female,germany,abitur,BAE,user,more than 2 hours per day,t,t,1453190400000,1453194000000
+112,B585550D-A056-49F0-A73B-AF5BEE8590A1,2016-01-19 09:00:00,30,female,romania,abitur,teaching,user,less than 2 hours per day,t,t,1453190400000,1453194000000
+111,94ADC54A-84BE-45F4-AB1F-A4AEAA300E51,2016-01-19 09:00:00,21,male,germany,abitur,political science,user,more than 2 hours per day,t,t,1453190400000,1453194000000
+1303,1DB41D82-8BC3-4014-9CA4-5A034E8894A6,2016-02-02 09:00:00,23,female,germany,abitur,international cultural and business studies,user,more than 2 hours per day,f,f,1454400000000,1454403600000
+1604,7C0C3AEC-0711-47A0-AC1B-EF536E9C56A4,2016-02-03 14:00:00,22,female,germany,abitur,european studies,user,more than 2 hours per day,f,t,1454504400000,1454508000000
+1504,14D1DDB0-2D3D-4BE2-A4B8-0B760008B811,2016-02-03 14:00:00,24,female,germany,abitur,cultural industry,user,more than 2 hours per day,f,t,1454504400000,1454508000000
+1607,4E082A58-8EF0-4E89-9DBD-582ECB8AF59C,2016-02-03 14:00:00,24,female,germany,abitur,european studies,user,more than 2 hours per day,f,t,1454504400000,1454508000000
+1606,BA737DC2-A852-4029-B82F-5E6CC5361BAC,2016-02-03 14:00:00,27,female,germany,abchelor,international cultural and business studies,user,less than 2 hours per day,f,t,1454504400000,1454508000000
+1601,13A1EE92-22AB-4863-8FBA-561D7BAFBEAB,2016-02-03 14:00:00,28,male,germany,bachelor,computer science,expert,more than 2 hours per day,f,t,1454504400000,1454508000000
+1602,8A343D05-8D95-4344-9314-06DE32BAC202,2016-02-03 14:00:00,21,male,germany,abitur,law,user,more than 2 hours per day,f,t,1454504400000,1454508000000
+1505,4EF11713-8878-4338-A102-945AB379C293,2016-02-03 13:00:00,26,female,germany,bachelor,cultural industry,user,less than 2 hours per day,f,t,1454500800000,1454504400000
+1503,4619D033-3F5D-4A5C-9BC5-28324F86531D,2016-02-03 13:00:00,22,male,germany,bachelor,business administration,expert,more than 2 hours per day,f,t,1454500800000,1454504400000
+1502,1A3A401A-93EF-473B-9EE9-98B2B8B8120A,2016-02-03 13:00:00,21,female,germany,abitur,international cultural and business studies,user,less than 2 hours per day,f,t,1454500800000,1454504400000
+1501,0A43C82E-3914-4C1F-8DC8-15FE94A85702,2016-02-03 13:00:00,22,female,germany,abitur,european studies,user,less than 2 hours per day,f,t,1454500800000,1454504400000
+1410,989DC138-9883-4D2A-AF8A-DA894BD62115,2016-02-03 13:00:00,25,male,ukraine,bachelor,business informatics,user,more than 2 hours per day,f,t,1454500800000,1454504400000
+1201,8DDC04CF-DC6A-4A76-8EC1-330E2749C396,2016-02-03 13:00:00,24,male,germany,abitur,law,expert,more than 2 hours per day,f,t,1454500800000,1454504400000
+1106,77438006-2FAC-4725-B5FC-CB09909CFB52,2016-02-03 13:00:00,22,female,germany,abitur,european studies,user,less than 2 hours per day,f,t,1454500800000,1454504400000
+1302,04B2BE05-E25B-4495-9F9C-A149628AAF25,2016-02-02 09:00:00,25,male,germany,abitur,BAE,user,more than 2 hours per day,f,f,1454400000000,1454403600000
+1306,27CE9611-8DD1-4B41-83B4-3BD14A098309,2016-02-02 09:00:00,20,female,germany,abitur,BAE,user,less than 2 hours per day,f,f,1454400000000,1454403600000
+1307,E7D03EDD-B8F2-42D2-85E0-EEA98591628E,2016-02-02 09:00:00,21,male,germany,abitur,internet computing,expert,more than 2 hours per day,f,f,1454400000000,1454403600000
+1305,E882F497-6975-4E96-94EB-2CB38B1EF5E5,2016-02-02 09:00:00,21,male,germany,abitur,BAE,user,more than 2 hours per day,f,f,1454400000000,1454403600000
+1310,E5487D46-2353-49B6-B9B3-01422D91BE5C,2016-02-02 09:00:00,23,male,germany,abitur,law,user,more than 2 hours per day,f,f,1454400000000,1454403600000
+1309,93BFC89A-B151-4263-8213-9D60A8D0F734,2016-02-02 09:00:00,23,female,germany,abitur,BAE,,less than 2 hours per day,f,f,1454400000000,1454403600000
+1402,63459C2B-9F94-4B87-8569-5FA04A148365,2016-02-02 10:00:00,22,female,germany,bachelor,media and communications,user,more than 2 hours per day,f,f,1454403600000,1454407200000
+1401,050EBFC0-1B0F-4724-8999-8E12FAB26EE6,2016-02-02 10:00:00,22,female,germany,abitur,international cultural and business studies,user,less than 2 hours per day,f,f,1454403600000,1454407200000
+1405,AAB4E977-C557-4DB4-B0DB-779B6980D77E,2016-02-02 10:00:00,24,male,germany,abitur,law,user,more than 2 hours per day,f,f,1454403600000,1454407200000
+1404,FBA4584F-368F-4D83-9E29-65683B03BECF,2016-02-02 10:00:00,23,female,germany,abitur,law,user,more than 2 hours per day,f,f,1454403600000,1454407200000
+1406,2F418770-AAEF-4801-8048-9C16470A12F1,2016-02-02 10:00:00,21,male,germany,abitur,BAE,user,less than 2 hours per day,f,f,1454403600000,1454407200000
+1403,BB4DF636-DB2A-41FA-A60F-B5CF75B87EBE,2016-02-02 10:00:00,22,female,germany,abitur,international cultural and business studies,user,more than 2 hours per day,f,f,1454403600000,1454407200000
+1107,73CE33A2-A6D9-4626-A385-16D3F3C855CF,2016-02-01 09:00:00,22,male,germany,abitur,teaching,user,less than 2 hours per day,t,f,1454313600000,1454317200000
+1101,520FD3BC-D153-40C7-B38B-A528B5EEE8CD,2016-02-01 09:00:00,21,male,germany,abitur,law,user,more than 2 hours per day,t,f,1454313600000,1454317200000
+1103,007B98B2-EC69-47C4-8288-34AD73443B11,2016-02-01 09:00:00,22,female,germany,abitur,media and communications,user,more than 2 hours per day,t,f,1454313600000,1454317200000
+1104,9EF6F601-9BD0-4C9F-831B-C76967F58299,2016-02-01 09:00:00,21,female,germany,abitur,BAE,user,more than 2 hours per day,t,f,1454313600000,1454317200000
+1105,D8C40700-611C-4784-99FE-2CCD40FEC05D,2016-02-01 09:00:00,22,female,germany,abitur,law,user,more than 2 hours per day,t,f,1454313600000,1454317200000
+1206,4F6B2A36-A8AD-46F1-9CFA-8CA1141EF8A3,2016-02-01 10:00:00,23,male,germany,abitur,international cultural and business studies,user,more than 2 hours per day,t,t,1454317200000,1454320800000
+1203,E50F229B-5434-4072-A49C-EF3393D318F3,2016-02-01 10:00:00,23,female,germany,abitur,political science,user,more than 2 hours per day,t,t,1454317200000,1454320800000
+1207,9192A898-D40B-48C0-B4CB-4001AFFA585F,2016-02-01 10:00:00,23,male,germany,abitur,political science,user,more than 2 hours per day,t,t,1454317200000,1454320800000
+1205,524388DB-FA62-455E-A631-DB2E2F8CB390,2016-02-01 10:00:00,19,female,usa,abitur,BAE,user,less than 2 hours per day,t,t,1454317200000,1454320800000
+316,FB993CA3-1DCF-466E-98E6-FF487A51CAA3,2016-01-20 13:00:00,20,male,germany,abitur,law,expert,more than 2 hours per day,t,t,1453291200000,1453294800000
+312,16ADE15E-5BD7-40B4-8DFA-FFC96BBB2934,2016-01-20 13:00:00,25,female,germany,bachelor,governance & public policy,expert,more than 2 hours per day,t,t,1453291200000,1453294800000

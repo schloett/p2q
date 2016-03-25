@@ -1,0 +1,309 @@
+task|uuid|proband_id|stopping_criterion|intention
+2|94ADC54A-84BE-45F4-AB1F-A4AEAA300E51|111|timeout|
+3|2F09466B-185F-4C6E-8B17-68B7E25EE02F|1100|no results available|pages related to the topic, many did not fit
+1|94ADC54A-84BE-45F4-AB1F-A4AEAA300E51|111|timeout|"review of the cookbook ""everything tastes better with bacon"""
+3|94ADC54A-84BE-45F4-AB1F-A4AEAA300E51|111|perfect results|definition of DDOS attack
+4|94ADC54A-84BE-45F4-AB1F-A4AEAA300E51|111|timeout|
+1|B585550D-A056-49F0-A73B-AF5BEE8590A1|112|perfect results|DNA strands and their effect on other parts of the body
+2|B585550D-A056-49F0-A73B-AF5BEE8590A1|112|timeout|"word ""castle"" and meaning, also linguistic and linguistic development"
+3|B585550D-A056-49F0-A73B-AF5BEE8590A1|112|no results available|composition of feet/legs of frogs
+4|B585550D-A056-49F0-A73B-AF5BEE8590A1|112|perfect results|historical development of the country Germany
+1|816CC251-30B9-4679-A55A-E9CE0501D4CF|113|timeout|definition of ROT13
+2|816CC251-30B9-4679-A55A-E9CE0501D4CF|113|timeout|content
+3|816CC251-30B9-4679-A55A-E9CE0501D4CF|113|timeout|"definition ""reactive attachment disorder"""
+4|816CC251-30B9-4679-A55A-E9CE0501D4CF|113|timeout|world war II, nazi germany
+2|85CF1791-00CC-4116-A3DE-3C037BE42E71|315|no results available|"searched for ""mammut"", found ""mammals"""
+3|85CF1791-00CC-4116-A3DE-3C037BE42E71|315|perfect results|Greek myths, the heroes and most important persons
+1|A8BF7459-6272-4392-AC41-36002DC7FC9F|543|timeout|
+4|737879E6-6A01-4E72-95EB-9FB77B3FC9F2|523|perfect results|culture of the Germans
+3|27CE9611-8DD1-4B41-83B4-3BD14A098309|1306|perfect results|
+1|D646DAF2-5AF4-4E1C-9142-D86DC1BE60E5|221|timeout|situation during war and dictatorship
+2|D646DAF2-5AF4-4E1C-9142-D86DC1BE60E5|221|no results available|reason for prohibition / restrictions
+3|D646DAF2-5AF4-4E1C-9142-D86DC1BE60E5|221|perfect results|idea beyond development, inspirations
+4|D646DAF2-5AF4-4E1C-9142-D86DC1BE60E5|221|perfect results|members in which organisations? some statistics on the global comparison
+1|5A912A7C-B7F3-4595-AC25-574293E720DA|222|timeout|keywords that historically and content-wise fit the context of the article
+2|5A912A7C-B7F3-4595-AC25-574293E720DA|222|perfect results|keywords that fit the topic content-wise and do not only conincide in terms of the word itself, but have nothing to do with video games / the article section
+1|F94BB259-34D3-41D3-8E5D-410BF7E62BBF|531|no results available|relation between world war and barcelona/soccer
+3|5A912A7C-B7F3-4595-AC25-574293E720DA|222|perfect results|searched for keywords that fit the context of the article and removed words that were solely based on locations
+4|5A912A7C-B7F3-4595-AC25-574293E720DA|222|perfect results|searched for historical and content-wise connections, which are not only related to single keywords and therefor represent a totally different context
+1|3F6E28A7-1E4C-4374-A14E-C9F97556FE37|224|timeout|historical events, rather explanation of terms
+2|3F6E28A7-1E4C-4374-A14E-C9F97556FE37|224|timeout|reasons for the construction
+3|3F6E28A7-1E4C-4374-A14E-C9F97556FE37|224|timeout|history
+4|3F6E28A7-1E4C-4374-A14E-C9F97556FE37|224|timeout|
+1|656E68B8-E7C6-4528-B9BA-C7D2F3957954|225|timeout|summary of the content, what is it about? what happened? which words put the content in a nutshell
+2|656E68B8-E7C6-4528-B9BA-C7D2F3957954|225|perfect results|conscise definition of dinosaurs. Which terms/definitions are really important? None of the words in brackets necessary for general definition
+3|656E68B8-E7C6-4528-B9BA-C7D2F3957954|225|timeout|? and clear information about the development of the wonderbra between 1964 and 1980 as a canadian product. evolution of emancipation
+4|656E68B8-E7C6-4528-B9BA-C7D2F3957954|225|timeout|abstract of the German history and current developments and ? of Germany
+1|384519AD-BF21-4E64-87F7-9F5A09A3D2F9|311|timeout|additional information to the persons
+2|384519AD-BF21-4E64-87F7-9F5A09A3D2F9|311|timeout|detailed information
+3|384519AD-BF21-4E64-87F7-9F5A09A3D2F9|311|no results available|more information about the creator and the content
+4|384519AD-BF21-4E64-87F7-9F5A09A3D2F9|311||information/results in german for location. More results about Germany instead of the EU
+1|16ADE15E-5BD7-40B4-8DFA-FFC96BBB2934|312||Distance of different dimension in the molecular DNA structure. The keywords did not fit at all in the beginning, hence I provided them manually
+2|16ADE15E-5BD7-40B4-8DFA-FFC96BBB2934|312||for key-persons, -documents, -institutions which explain the arise of the european commision
+3|16ADE15E-5BD7-40B4-8DFA-FFC96BBB2934|312||overview information, which does not go into detail too much, but provides a sweeping statement as introduction to the topic
+1|483C5C25-55A3-4A99-914D-ECCA8D13FDFE|313|perfect results|arguments for dualism. did not adapt the suggested keywords and the results fit the topic
+2|483C5C25-55A3-4A99-914D-ECCA8D13FDFE|313|timeout|moon rock, titanium (components of the moon)
+3|483C5C25-55A3-4A99-914D-ECCA8D13FDFE|313|timeout|dress style of punks
+4|483C5C25-55A3-4A99-914D-ECCA8D13FDFE|313|perfect results|Everything related to East-Germany. History, politics, culture - and also after the fall of the wall
+1|9D7243F7-6275-4ABB-8BA7-FE39E9C2B629|314|perfect results|sport rivalry againts Real Madrid, most important trainers between 37-78, Barcelonas role in the civil war / under Frenco
+2|9D7243F7-6275-4ABB-8BA7-FE39E9C2B629|314|no results available|description of the first games of the first world cup, problems with the first world cups, participating countries
+3|9D7243F7-6275-4ABB-8BA7-FE39E9C2B629|314|perfect results|development of TV-advertisement -> which values had been in focus?
+4|9D7243F7-6275-4ABB-8BA7-FE39E9C2B629|314|timeout|short historical overview, economic indicators, positive economic development
+1|85CF1791-00CC-4116-A3DE-3C037BE42E71|315|timeout|9/11 attacks
+4|85CF1791-00CC-4116-A3DE-3C037BE42E71|315|timeout|Germany as country in general, industry, population etc.
+1|FB993CA3-1DCF-466E-98E6-FF487A51CAA3|316|timeout|"removed soccer terms, such as ""goalkeeper"". Search for historical background"
+2|FB993CA3-1DCF-466E-98E6-FF487A51CAA3|316|no results available|historical section, but all results without historical relation
+3|FB993CA3-1DCF-466E-98E6-FF487A51CAA3|316|timeout|
+4|FB993CA3-1DCF-466E-98E6-FF487A51CAA3|316|timeout|further information about history & mentioned memberships of Germany
+4|16ADE15E-5BD7-40B4-8DFA-FFC96BBB2934|312||central aspects from history, politics, economy
+1|0ED79AF1-BC56-416D-A2D0-AEC85602979F|114|timeout|I searched for the renters of the world trade center area at the moment of the 9/11 attack
+2|0ED79AF1-BC56-416D-A2D0-AEC85602979F|114|timeout|I searched for the beginnings of the european comission
+3|0ED79AF1-BC56-416D-A2D0-AEC85602979F|114|perfect results|I searched for the process of how europeans began to explore maple syrup for them
+4|0ED79AF1-BC56-416D-A2D0-AEC85602979F|114||I searched for general information about Germany as if I never heard about this country and would like to get a general introduction
+1|DB6D5A2D-E47F-4AB5-9F3E-8837CF89BCDF|223|timeout|I searched for more attributions and information about Scotland Yard
+2|DB6D5A2D-E47F-4AB5-9F3E-8837CF89BCDF|223|timeout|I searched for dinsosaurs with feathers and information about these
+3|DB6D5A2D-E47F-4AB5-9F3E-8837CF89BCDF|223|timeout|I searched for relations between 2D computer graphics and console games and how they influence each other and such information. How does both relate?
+4|DB6D5A2D-E47F-4AB5-9F3E-8837CF89BCDF|223|timeout|I searched for connections between the United States and the European Union (to which also Germany belongs) and had a look which information is available on this topic
+1|E3A5C9E4-3CF3-4507-B6C6-92D4D72C64FE|521|timeout|
+2|E3A5C9E4-3CF3-4507-B6C6-92D4D72C64FE|521|timeout|
+3|E3A5C9E4-3CF3-4507-B6C6-92D4D72C64FE|521|timeout|
+4|E3A5C9E4-3CF3-4507-B6C6-92D4D72C64FE|521|perfect results|
+1|F55673C8-F0B5-48CE-9456-8055CA9221CA|522|perfect results|I searched for relevant results concerning the meaning of the colours and the elements of the flag
+2|F55673C8-F0B5-48CE-9456-8055CA9221CA|522|perfect results|"additional information about the maya culture and ?; also information about the current research in the area of ""indigene languages and nations"""
+3|F55673C8-F0B5-48CE-9456-8055CA9221CA|522|perfect results|additional information about the franco-american relationships
+4|F55673C8-F0B5-48CE-9456-8055CA9221CA|522|perfect results|additional information about Germany, in particular about politics and history
+1|737879E6-6A01-4E72-95EB-9FB77B3FC9F2|523|timeout|
+2|737879E6-6A01-4E72-95EB-9FB77B3FC9F2|523|perfect results|survival rate
+3|737879E6-6A01-4E72-95EB-9FB77B3FC9F2|523|no results available|median temperature on the planet
+2|F94BB259-34D3-41D3-8E5D-410BF7E62BBF|531|perfect results|psychological and moral issues of computer games
+3|F94BB259-34D3-41D3-8E5D-410BF7E62BBF|531|no results available|information about the founder/developer of Super Mario
+4|F94BB259-34D3-41D3-8E5D-410BF7E62BBF|531|timeout|Germany, Europe, EU - immigration, current topics
+1|2276F2E6-8F73-47CD-8869-82754BA4598C|532|timeout|no time left
+2|2276F2E6-8F73-47CD-8869-82754BA4598C|532|timeout|Z33
+3|2276F2E6-8F73-47CD-8869-82754BA4598C|532|timeout|"""reactivation"" of the olympic games"
+4|2276F2E6-8F73-47CD-8869-82754BA4598C|532|timeout|Germany
+1|977EBA8B-8C92-462D-8852-6806BD1536F1|534|timeout|description & explanation of the DNA protein structure -> composition, adaptation and replication gene structures. unfortunately I could not really cope and work with the complex English technical language and abbreviations
+2|977EBA8B-8C92-462D-8852-6806BD1536F1|534|no results available|Search for short biography of Christopher Poole and his unique inventions - but: too less information about his person
+3|977EBA8B-8C92-462D-8852-6806BD1536F1|534|perfect results|Search for skeleton structure of a frog foot and how it serves its locomotion
+4|977EBA8B-8C92-462D-8852-6806BD1536F1|534|perfect results|all possible characteristica which are related to the country Germany: both within Germany (climate, political system, language, ...) and in connection to other countries/nations (EU, world wars, G8,..) -> coarse overview over relevant facts about Germany
+1|FB573956-80A7-4D6F-904F-F69942BBDCA4|535|timeout|general inforamtion about the World Trade Center, its origin and background
+2|FB573956-80A7-4D6F-904F-F69942BBDCA4|535|no results available|I searched for the contents of the diary, the story. The text was very good content-wise, but the results were not helpful at all
+3|FB573956-80A7-4D6F-904F-F69942BBDCA4|535|timeout|What led to the statue of liberty and who the responsible persons were
+4|FB573956-80A7-4D6F-904F-F69942BBDCA4|535|timeout|general information about germany, that had nothing to do with the nazis and WWII. Important persons of the current time
+1|CEC60913-9FFF-4E0F-A197-3113BBFBCB40|536|perfect results|"for keywords on the topic of the poster ""we can do it"""
+2|CEC60913-9FFF-4E0F-A197-3113BBFBCB40|536|no results available|"for the etymology of the term ""castle"""
+3|CEC60913-9FFF-4E0F-A197-3113BBFBCB40|536|perfect results|"for the keywords ""french"" but also for persons"
+4|CEC60913-9FFF-4E0F-A197-3113BBFBCB40|536||keywords, which relate to the country by itself
+1|F995DD24-FCBC-46BD-8131-63152D81C268|541|timeout|
+2|F995DD24-FCBC-46BD-8131-63152D81C268|541|timeout|approximate prices of tulips
+3|F995DD24-FCBC-46BD-8131-63152D81C268|541|no results available|more information about sediment formations
+4|F995DD24-FCBC-46BD-8131-63152D81C268|541|timeout|history of Germany; Weimar republic backgrounds, events
+1|AF386DA3-AF40-40DB-B44F-60821E9C37A8|542|no results available|heredity of the Alzheimer disease
+2|AF386DA3-AF40-40DB-B44F-60821E9C37A8|542|perfect results|the expansion of participation and success of asian and african national teams at the soccer world cup
+3|AF386DA3-AF40-40DB-B44F-60821E9C37A8|542|perfect results|"the Japanese flag after WWII until 1999 + criticsm of the ""military flag"""
+4|AF386DA3-AF40-40DB-B44F-60821E9C37A8|542|no results available|general information about Germany, which means a coarse overview over the country
+2|A8BF7459-6272-4392-AC41-36002DC7FC9F|543|timeout|
+3|A8BF7459-6272-4392-AC41-36002DC7FC9F|543|no results available|
+4|A8BF7459-6272-4392-AC41-36002DC7FC9F|543|perfect results|evolutionary history of the German language
+1|8A343D05-8D95-4344-9314-06DE32BAC202|1602|timeout|
+2|8A343D05-8D95-4344-9314-06DE32BAC202|1602|perfect results|"for theses about the collision of two objects in the universe (""giant impact""), which is said to have led to the formation of the moon"
+3|8A343D05-8D95-4344-9314-06DE32BAC202|1602|no results available|for Hinomaru, a version of the Japanese flag (between WWII and the time of occupation). The only fitting result was a picture of the flag.
+4|8A343D05-8D95-4344-9314-06DE32BAC202|1602|timeout|
+1|FAA7DDB8-E638-427B-AF2B-7B1078C466DC|1608|timeout|
+2|FAA7DDB8-E638-427B-AF2B-7B1078C466DC|1608|no results available|
+3|FAA7DDB8-E638-427B-AF2B-7B1078C466DC|1608|timeout|
+4|FAA7DDB8-E638-427B-AF2B-7B1078C466DC|1608|timeout|
+1|7C0C3AEC-0711-47A0-AC1B-EF536E9C56A4|1604|timeout|real-time strategy, game, history-based, Stone Age, Rome, Iron Age, ...
+2|7C0C3AEC-0711-47A0-AC1B-EF536E9C56A4|1604|timeout|Mayan languages -> mesoamerican language area, language family
+3|7C0C3AEC-0711-47A0-AC1B-EF536E9C56A4|1604|perfect results|Super Mario 64 -> N64 controller, Nintendo 64, Super Mario FX, development, producer, game concept
+4|7C0C3AEC-0711-47A0-AC1B-EF536E9C56A4|1604|timeout|parliamentary system -> Germany, Federation, Europe
+1|14D1DDB0-2D3D-4BE2-A4B8-0B760008B811|1504|no results available|"Frequency of symptoms in the ""moderate"" phase"
+2|14D1DDB0-2D3D-4BE2-A4B8-0B760008B811|1504|perfect results|first densest satellite in the solar system
+3|14D1DDB0-2D3D-4BE2-A4B8-0B760008B811|1504|timeout|injury risks during moshing/pogo + injuries
+4|14D1DDB0-2D3D-4BE2-A4B8-0B760008B811|1504|perfect results|reason for Germany being the second most popular state for migration
+1|4E082A58-8EF0-4E89-9DBD-582ECB8AF59C|1607|timeout|"I added ""regional nationalism"" and ""nationalism"" to the search, as well as ""italian air force"", in order to find results, which rather complement the content of the article. This was successful."
+2|4E082A58-8EF0-4E89-9DBD-582ECB8AF59C|1607|timeout|Unfortunately there was no time to adapt the search, due to a bug in the software. The first results were all irrelevant.
+3|4E082A58-8EF0-4E89-9DBD-582ECB8AF59C|1607|timeout|"I removed ""draft (hull)"", ""cylinder"", ""ox"", ""loader (equipment)"" and ""political party"" in order to find a more accurate result"
+4|4E082A58-8EF0-4E89-9DBD-582ECB8AF59C|1607|timeout|"I removed ""Germania (book)"", ""Anno Domini"", ""Urine"", ""Mile"", ""Temperate Climate"", ""City"" and added ""German history"". The result was not satisfactory (section probably to general)"
+1|BA737DC2-A852-4029-B82F-5E6CC5361BAC|1606|no results available|Search for laws for the dissolution of the British parliament
+2|BA737DC2-A852-4029-B82F-5E6CC5361BAC|1606|no results available|
+3|BA737DC2-A852-4029-B82F-5E6CC5361BAC|1606||"Main Topic - Norwich, ""Edward III of England"", ""Market"", ""franchise"". I wanted to know how and who granted market rights to Norwich"
+4|BA737DC2-A852-4029-B82F-5E6CC5361BAC|1606|no results available|"Main Topic - Germany, afterwards ""inhabitants"" + ""population"", because I wanted to know how many inhabitants live in Germany"
+1|13A1EE92-22AB-4863-8FBA-561D7BAFBEAB|1601|timeout|
+2|13A1EE92-22AB-4863-8FBA-561D7BAFBEAB|1601|timeout|
+3|13A1EE92-22AB-4863-8FBA-561D7BAFBEAB|1601||MT: irrational number -> continued fraction, KW: fraction, irrational number
+4|13A1EE92-22AB-4863-8FBA-561D7BAFBEAB|1601||MT: Germany, KW: Federal Republic of Germany, Berlin, European Union, Weimarer Republic, social security, universal health care
+1|0A43C82E-3914-4C1F-8DC8-15FE94A85702|1501||locations and persons -> names
+2|0A43C82E-3914-4C1F-8DC8-15FE94A85702|1501||an unknown word, locations and names
+3|0A43C82E-3914-4C1F-8DC8-15FE94A85702|1501||offices in the parliament (what is the meaning of denomination)
+4|0A43C82E-3914-4C1F-8DC8-15FE94A85702|1501||geographical/politic terms (roman empire, EU, Weimar republic, federal republic, ...)
+1|FF3AB3E3-8AE8-43BE-A342-E2128BEA1784|1407|timeout|searched for Barbauld's lessons in order to understand what it is about and its relation to the topic of the web page
+2|FF3AB3E3-8AE8-43BE-A342-E2128BEA1784|1407|perfect results|searched for Marat, in order to understand the cited comparison
+4|9EF6F601-9BD0-4C9F-831B-C76967F58299|1104||general information about Germany
+3|FF3AB3E3-8AE8-43BE-A342-E2128BEA1784|1407|perfect results|"after removing some double and irrelevant terms from the search, ""perfect matches"" quickly showed up"
+4|FF3AB3E3-8AE8-43BE-A342-E2128BEA1784|1407|perfect results|"keywords irrelevant or in foreign languages at first. Adaptation of the query, better results, but still no perfect match. New query term ""GDP"", because unknown, afterwards found perfect match"
+1|2F09466B-185F-4C6E-8B17-68B7E25EE02F|1100|timeout|pages, whose content is not too complex, pages of interest to me
+2|2F09466B-185F-4C6E-8B17-68B7E25EE02F|1100||did not work on the second task, was too occupied with the first task and did not recognize the timeout
+4|2F09466B-185F-4C6E-8B17-68B7E25EE02F|1100|timeout|
+1|4EF11713-8878-4338-A102-945AB379C293|1505|timeout|Jack the Ripper, witnesses, locations, graffiti
+2|4EF11713-8878-4338-A102-945AB379C293|1505|timeout|"""Atheism"" with the keywords: definitions, ideas, controversy, range. and later on: applicability"
+3|4EF11713-8878-4338-A102-945AB379C293|1505|perfect results|La liberte eclairant le monde and centennial exposition, Franco-American Union, Philadelphia
+4|4EF11713-8878-4338-A102-945AB379C293|1505||Main topic: Germany, not Berlin respectivey afterwards: Federal Republic of Germany + economy, global leader, GDP, gross domestic product
+1|4619D033-3F5D-4A5C-9BC5-28324F86531D|1503|timeout|"search for elements of the musical direction of the album ""...and justice for all"" from Metallica"
+2|4619D033-3F5D-4A5C-9BC5-28324F86531D|1503|timeout|The Texas Aggie Bonfire: A conservative reading of regiona narratives, traditional practices and a paradoxial place
+3|4619D033-3F5D-4A5C-9BC5-28324F86531D|1503|perfect results|history of the punk-culture as a sub culture in terms of fashion and appearance
+4|4619D033-3F5D-4A5C-9BC5-28324F86531D|1503|no results available|the federal republic Germany - a short overview about its history and current facts
+1|1A3A401A-93EF-473B-9EE9-98B2B8B8120A|1502|no results available|I searched for the historical background of the Portugese revolution (republicans)
+2|1A3A401A-93EF-473B-9EE9-98B2B8B8120A|1502|perfect results|reduce your risk: new national guidelines for alcohol consumption
+3|1A3A401A-93EF-473B-9EE9-98B2B8B8120A|1502|timeout|background of uncle tom's cabin -> slavery in North Carolina
+4|1A3A401A-93EF-473B-9EE9-98B2B8B8120A|1502|timeout|details about the foundation of Germany, respectively relation to Europe
+2|989DC138-9883-4D2A-AF8A-DA894BD62115|1410|no results available|"automatic from paragraph ""Charakter"" shows general about video games and military. Much fits, not all. non-playable charakters + captain prise -> shows only general results, nothing about cap prise"
+1|989DC138-9883-4D2A-AF8A-DA894BD62115|1410|no results available|photograph + we can do it
+3|989DC138-9883-4D2A-AF8A-DA894BD62115|1410|no results available|automatic search is bad. olympics + games + 1896 + Coca Cola sponsored + 1928 + summer olym_ does not fit (not full? word only coca cola sponsor
+4|989DC138-9883-4D2A-AF8A-DA894BD62115|1410|perfect results|federal republic Germany + BunRepublik Deutschland, automatic query bad, search results not perfect
+1|8DDC04CF-DC6A-4A76-8EC1-330E2749C396|1201|timeout|Lewy bodies & parietal lobe in context with development of Alzheimer's
+2|8DDC04CF-DC6A-4A76-8EC1-330E2749C396|1201|timeout|How does the composition of the Moon not fit in the concept of one giant impact?
+3|8DDC04CF-DC6A-4A76-8EC1-330E2749C396|1201|no results available|supernatural soundtrack/tracklist/anything correlated to it ?!?
+4|8DDC04CF-DC6A-4A76-8EC1-330E2749C396|1201||Germany's role in the European Union + economic situation
+1|77438006-2FAC-4725-B5FC-CB09909CFB52|1106|timeout|for the risk factors of Alzheimer
+2|77438006-2FAC-4725-B5FC-CB09909CFB52|1106|timeout|what happend on Black Friday (1945)?
+3|77438006-2FAC-4725-B5FC-CB09909CFB52|1106|no results available|the definition of tornados. How does a tornado look like?
+4|77438006-2FAC-4725-B5FC-CB09909CFB52|1106|timeout|
+1|A1506DB8-B6E2-45A5-B867-07BED000FBE7|1408|timeout|
+2|A1506DB8-B6E2-45A5-B867-07BED000FBE7|1408|perfect results|
+3|A1506DB8-B6E2-45A5-B867-07BED000FBE7|1408|timeout|
+4|A1506DB8-B6E2-45A5-B867-07BED000FBE7|1408|timeout|
+1|3C833781-DF98-4863-B752-ED819EACAD6B|1409|timeout|
+2|3C833781-DF98-4863-B752-ED819EACAD6B|1409|timeout|checkpoints, call of duty campaign
+3|3C833781-DF98-4863-B752-ED819EACAD6B|1409|timeout|uncle tom, eliza, slave trader
+4|3C833781-DF98-4863-B752-ED819EACAD6B|1409|timeout|capital, German Empire, ?, genocides, reunification
+1|63459C2B-9F94-4B87-8569-5FA04A148365|1402|timeout|
+2|E993C91C-F691-42AC-8AD6-9D26BD042B0B|1308|timeout|
+2|63459C2B-9F94-4B87-8569-5FA04A148365|1402|timeout|"information about the mentioned religions, more detailed explanations on the difference between ""atheism"" and ""theism"""
+3|63459C2B-9F94-4B87-8569-5FA04A148365|1402|timeout|information about maple syrup production in former times and about the relationship between Europeans and Native Americans
+4|63459C2B-9F94-4B87-8569-5FA04A148365|1402|timeout|additional information about the migration to Germany & about the composition of the federal republic (federal states)
+1|050EBFC0-1B0F-4724-8999-8E12FAB26EE6|1401|timeout|headlines, which summarize the section
+2|050EBFC0-1B0F-4724-8999-8E12FAB26EE6|1401|timeout|events that fit the time period (1900-1960) and the area (Kongo)
+3|050EBFC0-1B0F-4724-8999-8E12FAB26EE6|1401||
+4|050EBFC0-1B0F-4724-8999-8E12FAB26EE6|1401||keywords for the particular time periods, not too specific, but to gather a rough overview
+1|AAB4E977-C557-4DB4-B0DB-779B6980D77E|1405|timeout|rankings, success story of Age of Empires
+2|AAB4E977-C557-4DB4-B0DB-779B6980D77E|1405|perfect results|sociolinguistics
+3|AAB4E977-C557-4DB4-B0DB-779B6980D77E|1405|perfect results|proof that PI is irrational
+4|AAB4E977-C557-4DB4-B0DB-779B6980D77E|1405|perfect results|migration (control)
+1|FBA4584F-368F-4D83-9E29-65683B03BECF|1404|no results available|
+2|FBA4584F-368F-4D83-9E29-65683B03BECF|1404|timeout|keywords,generic terms
+3|FBA4584F-368F-4D83-9E29-65683B03BECF|1404|timeout|keywords from the text, related
+4|FBA4584F-368F-4D83-9E29-65683B03BECF|1404|timeout|related terms
+1|2F418770-AAEF-4801-8048-9C16470A12F1|1406|timeout|"searched for ""Tenants"". Search terms: Larry Silverstein, Salomon Brothers, Drexel Burnham Lambert"
+2|2F418770-AAEF-4801-8048-9C16470A12F1|1406|timeout|"section ""early development"". Search terms: ""Single European ?"", ""Merger Treaty"", ""Rey Commission"" and ""European Parliament"""
+3|2F418770-AAEF-4801-8048-9C16470A12F1|1406|perfect results|"section ""Indigene People"", search terms: maple sugar, maple syrup, algonquian people"
+4|2F418770-AAEF-4801-8048-9C16470A12F1|1406|perfect results|Germany, Italy roman empire
+1|BB4DF636-DB2A-41FA-A60F-B5CF75B87EBE|1403|timeout|
+2|BB4DF636-DB2A-41FA-A60F-B5CF75B87EBE|1403|timeout|
+3|BB4DF636-DB2A-41FA-A60F-B5CF75B87EBE|1403|perfect results|Dylan Cuthbert, Super FX chip
+4|BB4DF636-DB2A-41FA-A60F-B5CF75B87EBE|1403|timeout|Great Power
+1|1DB41D82-8BC3-4014-9CA4-5A034E8894A6|1303|timeout|for early Alzheimer's symptoms
+2|1DB41D82-8BC3-4014-9CA4-5A034E8894A6|1303|perfect results|for words, which define Atheism at best
+3|1DB41D82-8BC3-4014-9CA4-5A034E8894A6|1303|perfect results|words that fit the text well and allow to conclude its content (Wonderbra as a canadian product, also feminism in the USA)
+4|1DB41D82-8BC3-4014-9CA4-5A034E8894A6|1303|perfect results|suitable keywords and for results: all interesting, complementing texts
+1|04B2BE05-E25B-4495-9F9C-A149628AAF25|1302|timeout|background (political & social) of the introduction of the current Portuges flag -> republican revolution 1910
+2|04B2BE05-E25B-4495-9F9C-A149628AAF25|1302|no results available|information about the soccer world cup befor WWII (1930-1938)
+3|04B2BE05-E25B-4495-9F9C-A149628AAF25|1302|perfect results|Which flag has been raised during the American occupation in Japan and which influence had the Americans on it?
+4|04B2BE05-E25B-4495-9F9C-A149628AAF25|1302|timeout|General information about Germany. The most important facts, historical events and statistics
+2|27CE9611-8DD1-4B41-83B4-3BD14A098309|1306|no results available|why such strict alcohol laws in NJ
+4|27CE9611-8DD1-4B41-83B4-3BD14A098309|1306|perfect results|
+1|E7D03EDD-B8F2-42D2-85E0-EEA98591628E|1307|timeout|"removed irrelevant terms, adapted main topic to ""World Trade Center"" in order to retrieve only information about this building part. In addition looked for information on the main tenants"
+2|E7D03EDD-B8F2-42D2-85E0-EEA98591628E|1307|timeout|main topic changed, some adjustments to the terms in order to get information about the background, when it was published, what are the key statements
+3|E7D03EDD-B8F2-42D2-85E0-EEA98591628E|1307|perfect results|"set ""nuclear weapon testing"" as main topic to find info on the fist tests of nuclear weapons, involved people and soviet reactions"
+4|E7D03EDD-B8F2-42D2-85E0-EEA98591628E|1307|timeout|
+1|E882F497-6975-4E96-94EB-2CB38B1EF5E5|1305|no results available|
+2|E882F497-6975-4E96-94EB-2CB38B1EF5E5|1305|no results available|first world cup match
+3|E882F497-6975-4E96-94EB-2CB38B1EF5E5|1305|no results available|lucrative advertising markets
+4|E882F497-6975-4E96-94EB-2CB38B1EF5E5|1305||general information about Germany the federal republic
+1|E5487D46-2353-49B6-B9B3-01422D91BE5C|1310|timeout|
+2|E5487D46-2353-49B6-B9B3-01422D91BE5C|1310|perfect results|
+3|E5487D46-2353-49B6-B9B3-01422D91BE5C|1310|timeout|for the evolutionary history of Super Mario 64
+4|E5487D46-2353-49B6-B9B3-01422D91BE5C|1310|timeout|Germany - stats and history, for search terms (results) about general facts about Germany, for historic events
+1|93BFC89A-B151-4263-8213-9D60A8D0F734|1309|timeout|for areas where the storms occured
+2|93BFC89A-B151-4263-8213-9D60A8D0F734|1309|timeout|
+3|93BFC89A-B151-4263-8213-9D60A8D0F734|1309|timeout|
+4|93BFC89A-B151-4263-8213-9D60A8D0F734|1309|timeout|for different influences in Germany
+1|75713DA5-FAF2-4ED7-BDB7-9453C12040D0|1304|perfect results|3rd content section includes the murder victims, search for background/causes/motives for the act
+2|75713DA5-FAF2-4ED7-BDB7-9453C12040D0|1304|timeout|the formation of the Moon
+3|75713DA5-FAF2-4ED7-BDB7-9453C12040D0|1304|timeout|"search for the mythic history of Greece. A short overview on myths/legends/gods. Suggested links were ""Homer's Odysee"", a good example for the old legends"
+4|75713DA5-FAF2-4ED7-BDB7-9453C12040D0|1304|no results available|"a short summary about Germany, most important facts. I did not like the framed section perfectly, since 2 sections in the middle concerned historic events (I would put that to history). Hence, THE suitable text could not be selected. Additional results from the automatic search were bad (also showed ""error"")"
+1|E993C91C-F691-42AC-8AD6-9D26BD042B0B|1308|timeout|victims of Jack the Ripper -> and why he might have done this -> background
+3|E993C91C-F691-42AC-8AD6-9D26BD042B0B|1308|timeout|which creatures the first season is about
+4|E993C91C-F691-42AC-8AD6-9D26BD042B0B|1308|timeout|short overview about Germany
+1|4F6B2A36-A8AD-46F1-9CFA-8CA1141EF8A3|1206|timeout|
+2|4F6B2A36-A8AD-46F1-9CFA-8CA1141EF8A3|1206|no results available|I searched for the World Cup trophy, the suggested terms were all related to FIFA and the World Cup by itself
+3|4F6B2A36-A8AD-46F1-9CFA-8CA1141EF8A3|1206|perfect results|recent developments of the wonderbra
+4|4F6B2A36-A8AD-46F1-9CFA-8CA1141EF8A3|1206|perfect results|
+1|71E53BCB-9365-488B-8ED5-D1391BE6B72A|1204||search for results which relate to the production of the movie or provide extended background herefore
+2|71E53BCB-9365-488B-8ED5-D1391BE6B72A|1204||for results which indicate procedures to calculate the logarithm
+3|71E53BCB-9365-488B-8ED5-D1391BE6B72A|1204||search for results which examine the mechanisms for the evolution of legs of frogs
+4|71E53BCB-9365-488B-8ED5-D1391BE6B72A|1204||results, which provide additional background information
+1|27CE9611-8DD1-4B41-83B4-3BD14A098309|1306|no results available|definiton
+1|7A5B36C9-08FC-4E45-8583-420EAF4462EE|1210|timeout|for the functioning of the DNA (BNA)
+2|7A5B36C9-08FC-4E45-8583-420EAF4462EE|1210|no results available|"""practical atheism"" -> performed atheism -> atheists refuse the imagination of a god and explain the nature natural scientific facts"
+3|7A5B36C9-08FC-4E45-8583-420EAF4462EE|1210|timeout|diagnosis multiple sclerosis -> How/with which methods is multiple sceloris diagnosed
+4|7A5B36C9-08FC-4E45-8583-420EAF4462EE|1210||historic events in the German history, as well as the current political and economic situation
+1|1B643163-BAFB-4E9B-AC52-8C71369FCBDD|1209|timeout|Jack the Ripper -> how did women die / in which way have they been murdered
+2|1B643163-BAFB-4E9B-AC52-8C71369FCBDD|1209|timeout|European Coal and Steel community: data, members, what they did
+3|1B643163-BAFB-4E9B-AC52-8C71369FCBDD|1209|perfect results|the economy of Dawson Creek
+4|1B643163-BAFB-4E9B-AC52-8C71369FCBDD|1209|timeout|general stuff about Germany
+1|F8307604-0F44-4294-99BF-45C2281BF920|1208|perfect results|collapse of WTC
+2|F8307604-0F44-4294-99BF-45C2281BF920|1208|perfect results|links to anonymous & project chronology -> added terms: scientology, guy fawkes mask
+3|F8307604-0F44-4294-99BF-45C2281BF920|1208|perfect results|development of the push-up bra -> search was not relating to the topic, very broad and unspecific -> relation to the topic with new keywords: wonderbra, model 1300, pigeonnant, ... -> search results often did not fit, since push-up was put into releation with stomach muscle exercises
+4|F8307604-0F44-4294-99BF-45C2281BF920|1208||
+1|E50F229B-5434-4072-A49C-EF3393D318F3|1203|no results available|
+2|E50F229B-5434-4072-A49C-EF3393D318F3|1203|perfect results|single player mode of the game
+3|E50F229B-5434-4072-A49C-EF3393D318F3|1203|perfect results|guest stars in the TV series Supernatural (season 1)
+4|E50F229B-5434-4072-A49C-EF3393D318F3|1203|timeout|general information about Germany and an overview (short) of its history
+1|9192A898-D40B-48C0-B4CB-4001AFFA585F|1207||the history of FC Barcelona between 1923 and 1957
+2|9192A898-D40B-48C0-B4CB-4001AFFA585F|1207||first structures of soccer world cups
+3|9192A898-D40B-48C0-B4CB-4001AFFA585F|1207||orbit and rotation of the planet Uranus
+4|9192A898-D40B-48C0-B4CB-4001AFFA585F|1207||Introductionary material for the country Germany
+1|9CFFEC3B-62E4-4204-B684-AF8281C5FFAE|1202|no results available|
+2|9CFFEC3B-62E4-4204-B684-AF8281C5FFAE|1202|timeout|
+3|9CFFEC3B-62E4-4204-B684-AF8281C5FFAE|1202||before olympic games
+4|9CFFEC3B-62E4-4204-B684-AF8281C5FFAE|1202|timeout|locations
+1|524388DB-FA62-455E-A631-DB2E2F8CB390|1205|perfect results|
+2|524388DB-FA62-455E-A631-DB2E2F8CB390|1205|timeout|formation only of the moon
+3|524388DB-FA62-455E-A631-DB2E2F8CB390|1205|no results available|for the Greek mythology and the origin of popular works from that time
+4|524388DB-FA62-455E-A631-DB2E2F8CB390|1205|perfect results|history of Germany, current situation and economic situation
+1|D26D50F4-06E3-4FD0-839C-9764CFC82F9E|1102|timeout|
+2|D26D50F4-06E3-4FD0-839C-9764CFC82F9E|1102|no results available|cancer lung causes
+3|D26D50F4-06E3-4FD0-839C-9764CFC82F9E|1102|no results available|Zappas Olympics - Konstantinos Zappas. 1896 Summer Olympics, Panatheniac stadium
+4|D26D50F4-06E3-4FD0-839C-9764CFC82F9E|1102|no results available|parliamentary system, weimar republic, east germany
+1|97DF4BCC-EB51-4202-9940-FED9B26D6984|1108|timeout|causes of Alzheimer
+2|97DF4BCC-EB51-4202-9940-FED9B26D6984|1108||for atheism - definitions and concepts of different mentors
+3|97DF4BCC-EB51-4202-9940-FED9B26D6984|1108|no results available|the invention of the wonderbra
+4|97DF4BCC-EB51-4202-9940-FED9B26D6984|1108|timeout|the basic economic & political facts (current) about Germany
+1|73CE33A2-A6D9-4626-A385-16D3F3C855CF|1107|perfect results|technical terms, which lead to the identification/detection of dwarf planets
+2|73CE33A2-A6D9-4626-A385-16D3F3C855CF|1107|perfect results|for keywords of south american antique languages. Also for names of the linguists
+3|73CE33A2-A6D9-4626-A385-16D3F3C855CF|1107|perfect results|"keywords for the concept of Super Mario, such as ""Super FX chip"", but also for the internal codename"
+4|73CE33A2-A6D9-4626-A385-16D3F3C855CF|1107|perfect results|a wide variety of terms which are relevant, respectively can be related to Germany immediately
+1|9EF6F601-9BD0-4C9F-831B-C76967F58299|1104|timeout|important general terms, double helix, double stranded DNA
+2|9EF6F601-9BD0-4C9F-831B-C76967F58299|1104|timeout|origin and evolution of bacteria
+3|9EF6F601-9BD0-4C9F-831B-C76967F58299|1104|no results available|feet and legs, frog species
+1|D42CF4FD-1A01-4D2D-88FF-116EB1F8718E|1109|timeout|who overthrew the monarchy
+2|D42CF4FD-1A01-4D2D-88FF-116EB1F8718E|1109|perfect results|how the commission got stronger
+3|D42CF4FD-1A01-4D2D-88FF-116EB1F8718E|1109|perfect results|sexual revolution
+4|D42CF4FD-1A01-4D2D-88FF-116EB1F8718E|1109|perfect results|first searched for Pan-Germanism, but this did not load. Afterwards for parliamentary system -> perfect match
+2|520FD3BC-D153-40C7-B38B-A528B5EEE8CD|1101||I wanted to know where the cell regeneration takes place
+1|520FD3BC-D153-40C7-B38B-A528B5EEE8CD|1101||
+3|520FD3BC-D153-40C7-B38B-A528B5EEE8CD|1101||
+4|520FD3BC-D153-40C7-B38B-A528B5EEE8CD|1101||
+1|007B98B2-EC69-47C4-8288-34AD73443B11|1103|timeout|
+2|007B98B2-EC69-47C4-8288-34AD73443B11|1103|perfect results|very short text
+3|007B98B2-EC69-47C4-8288-34AD73443B11|1103|timeout|
+4|007B98B2-EC69-47C4-8288-34AD73443B11|1103|perfect results|good information
+1|D8C40700-611C-4784-99FE-2CCD40FEC05D|1105|timeout|names, locations
+2|D8C40700-611C-4784-99FE-2CCD40FEC05D|1105|timeout|I mainly searched for economic terms and the mentioned persons
+3|D8C40700-611C-4784-99FE-2CCD40FEC05D|1105|timeout|I searched for terms related to the body structure of a frog
+4|D8C40700-611C-4784-99FE-2CCD40FEC05D|1105|timeout|With the mentioning of comparisons, I searched for the first rank, respectively the ranked list. In addition for historical epochs/periods which were mentioned, mentioned abbreviations, international organisations
+1|8E0DAA67-DF6E-4F0C-A8C2-374DAD59F6E8|411||chemical composition, picture of a DNA protein
+2|8E0DAA67-DF6E-4F0C-A8C2-374DAD59F6E8|411|timeout|solar-like stars, evolution
+3|8E0DAA67-DF6E-4F0C-A8C2-374DAD59F6E8|411|perfect results|british olympic association, first modern olympiad in Athens 1896
+4|8E0DAA67-DF6E-4F0C-A8C2-374DAD59F6E8|411||WW II, Europe, East Germany
